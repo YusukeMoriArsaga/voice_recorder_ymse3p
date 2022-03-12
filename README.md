@@ -1,3 +1,6 @@
+# 本リポジトリは2022年3月をもって以下リポジトリに移行しました。
+https://github.com/YusukeMoriJapan/voice_recorder_ymse3p
+
 # Multi Recorder
 #### 「いつ・どこで・何を」話していたか、を記録するアプリです
 
